@@ -1,0 +1,7 @@
+screen_size 1024 768
+target_fps 24
+max_units 100
+unit_max_acc 250.0
+unit_max_speed 250.0
+unit_max_rot_acc 3.0
+unit_max_rot_vel 4.0

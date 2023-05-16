@@ -1,0 +1,12 @@
+﻿  DataRepository.cpp
+  DeanLibUtilities.cpp
+  DeanMath.cpp
+  MemoryPool.cpp
+  MemoryTracker.cpp
+  PerformanceTracker.cpp
+  RayCaster.cpp
+  Timer.cpp
+  Trackable.cpp
+  Vector2D.cpp
+  Generating Code...
+  DeanLib.vcxproj -> C:\Users\NealW\source\repos\Portfolio\Old Champlain\gamerecorder\assignment 5\DeanLib\lib\DeanLibDebug.lib

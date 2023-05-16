@@ -1,0 +1,19 @@
+﻿  Animation.cpp
+  Color.cpp
+  Event.cpp
+  EventListener.cpp
+  EventSystem.cpp
+  Font.cpp
+  FontManager.cpp
+  GraphicsBuffer.cpp
+  GraphicsBufferManager.cpp
+  GraphicsSystem.cpp
+  InputSystem.cpp
+  InterfaceEvents.cpp
+  Renderer.cpp
+  Sprite.cpp
+  SpriteManager.cpp
+  System.cpp
+  Generating Code...
+  SDL_FontCache.c
+  GraphicsLib.vcxproj -> C:\Users\NealW\source\repos\Portfolio\Old Champlain\gamerecorder\assignment 5\GraphicsLib\GraphicsLibSDL\Debug\GraphicsLib.lib

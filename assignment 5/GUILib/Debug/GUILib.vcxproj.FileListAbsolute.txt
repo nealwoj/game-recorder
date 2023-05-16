@@ -1,0 +1,2 @@
+C:\Users\NealW\source\repos\Champlain\gpr-480-01\wojtowicz.neal\GUILib\Debug\GUILib.lib
+C:\Users\NealW\source\repos\Portfolio\Old Champlain\gamerecorder\assignment 5\GUILib\Debug\GUILib.lib

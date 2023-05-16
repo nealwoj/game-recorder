@@ -1,0 +1,5 @@
+﻿  GUIControl.cpp
+C:\Users\NealW\source\repos\Champlain\gpr-480-01\wojtowicz.neal\GUILib\GUIControl.cpp(10,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GUIPanel.cpp
+C:\Users\NealW\source\repos\Champlain\gpr-480-01\wojtowicz.neal\GUILib\GUIPanel.cpp(43,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
